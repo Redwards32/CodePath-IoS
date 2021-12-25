@@ -1,1 +1,1 @@
-# CodePath-IoS
+# Tip Calculator
