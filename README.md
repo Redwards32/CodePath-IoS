@@ -26,7 +26,7 @@ GIF created with Recordit
 
 ## Notes
 
-I'd say the hardest thing to do with this pre-work project is deifnitely tyring to keep the objects/actions organized within the code!
+I'd say the hardest thing to do with this pre-work project is definitelytyring to keep the objects/actions organized within the code!
 
 ## License
 
